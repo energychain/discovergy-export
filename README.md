@@ -91,7 +91,6 @@ kontakt@stromdao.com  <br/>
 Handelsregister: HRB 728691 (Amtsgericht Mannheim)
 </addr>
 
-Project Website: https://tydids.com/
 
 ## [CONTRIBUTING](https://github.com/energychain/tydids-p2p/blob/main/CONTRIBUTING.md)
 
