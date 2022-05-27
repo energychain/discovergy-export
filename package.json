@@ -1,0 +1,37 @@
+{
+  "name": "discovergy-export",
+  "version": "0.5.1",
+  "description": "Data dump for Discovergy Metering",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/energychain/discovergy-export.git"
+  },
+  "bin": {
+    "discovergy-export": "./index.js"
+  },
+  "keywords": [
+    "discovergy",
+    "smartmeter",
+    "msconns",
+    "csv",
+    "metering",
+    "export",
+    "api"
+  ],
+  "author": "STROMDAO GmbH <dev@stromdao.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/energychain/discovergy-export/issues"
+  },
+  "homepage": "https://github.com/energychain/discovergy-export#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "commander": "^9.2.0",
+    "dotenv": "^16.0.1",
+    "moment": "^2.29.3"
+  }
+}
