@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/energychain/discovergy-export#readme",
   "dependencies": {
-    "axios": "^0.27.2",
+    "axios": "^1.6.0",
     "commander": "^9.2.0",
     "dotenv": "^16.0.1",
     "moment": "^2.29.3"
